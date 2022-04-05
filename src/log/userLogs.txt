@@ -1,0 +1,2 @@
+El usuario ingreso a la ruta: ${req.url}
+El usuario ingreso a la ruta: ${req.url}
